@@ -10,20 +10,18 @@ const AboutHero = () => {
         {/* Left Side */}
         <div className="flex flex-col items-start  md:-mt-12">
           <h1 className="text-[33px] lg:text-[40px] xl:text-[50px] 2xl:text-[60px] font-bold text-white text-center md:whitespace-nowrap">
-           About<span className="text-[#0ff6f6]"> KickStartSoftware</span> 
+            About<span className="text-[#0ff6f6]"> KickStartSoftware</span>
           </h1>
           <p className="text-white text-[20px] max-w-[50rem]   mx-auto text-justify items-start pt-4">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur,
-          adipisci quis dignissimos iste possimus corporis, reiciendis dicta
-          pariatur impedit non? Itaque, voluptatum.
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur,
-          adipisci quis dignissimos iste possimus corporis, reiciendis dicta
-          pariatur impedit non? Itaque, voluptatum.
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur,
-          adipisci quis dignissimos iste possimus corporis, reiciendis dicta
-          pariatur impedit non? Itaque, voluptatum.
-        </p>
-          
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur,
+            adipisci quis dignissimos iste possimus corporis, reiciendis dicta
+            pariatur impedit non? Itaque, voluptatum. Lorem ipsum dolor sit amet
+            consectetur adipisicing elit. Tenetur, adipisci quis dignissimos
+            iste possimus corporis, reiciendis dicta pariatur impedit non?
+            Itaque, voluptatum. Lorem ipsum dolor sit amet consectetur
+            adipisicing elit. Tenetur, adipisci quis dignissimos iste possimus
+            corporis, reiciendis dicta pariatur impedit non? Itaque, voluptatum.
+          </p>
         </div>
 
         {/* Right Side */}
